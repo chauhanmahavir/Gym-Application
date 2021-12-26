@@ -3,7 +3,7 @@ Gym Application
 
 ## Getting Started
 
-Install the dependencies
+* Install the dependencies
 
 ```bash
 $ git clone https://github.com/chauhanmahavir/Gym-Application.git
@@ -11,10 +11,34 @@ $ cd Gym-Application
 $ pip install -r requirement.txt
 ```
 
-BACK SQUAT
+* BACK SQUAT
 ```bash 
 cd BACK SQUAT
 python "BACK SQUAT.py"
+```
+
+* BARBELL CURL
+```bash 
+cd BARBELL CURL
+python "BARBELL CURL.py"
+```
+
+* DUMBBELL PREACHER CURL
+```bash 
+cd DUMBBELL PREACHER CURL
+python "DUMBBELL PREACHER CURL.py"
+```
+
+* FRONT SQUAT
+```bash 
+cd FRONT SQUAT
+python "FRONT SQUAT.py"
+```
+
+* OVERHEAD TRICEP
+```bash 
+cd OVERHEAD TRICEP
+python "OVERHEAD TRICEP.py"
 ```
 
 ## Profiles
