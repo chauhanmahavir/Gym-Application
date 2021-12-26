@@ -13,31 +13,31 @@ $ pip install -r requirement.txt
 
 * BACK SQUAT
 ```bash 
-cd BACK SQUAT
+cd "BACK SQUAT"
 python "BACK SQUAT.py"
 ```
 
 * BARBELL CURL
 ```bash 
-cd BARBELL CURL
+cd "BARBELL CURL"
 python "BARBELL CURL.py"
 ```
 
 * DUMBBELL PREACHER CURL
 ```bash 
-cd DUMBBELL PREACHER CURL
+cd "DUMBBELL PREACHER CURL"
 python "DUMBBELL PREACHER CURL.py"
 ```
 
 * FRONT SQUAT
 ```bash 
-cd FRONT SQUAT
+cd "FRONT SQUAT"
 python "FRONT SQUAT.py"
 ```
 
 * OVERHEAD TRICEP
 ```bash 
-cd OVERHEAD TRICEP
+cd "OVERHEAD TRICEP"
 python "OVERHEAD TRICEP.py"
 ```
 
