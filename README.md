@@ -1,15 +1,21 @@
 # Gym-Application
 Gym Application
 
-## Requirements
+## Getting Started
 
-* [Python 3.X](https://docs.python.org/3/)
+Install the dependencies
 
-* Open-CV
+```bash
+$ git clone https://github.com/chauhanmahavir/Gym-Application.git
+$ cd Gym-Application
+$ pip install -r requirement.txt
+```
 
-* Numpy
-
-* Mediapipe
+BACK SQUAT
+```bash 
+cd BACK SQUAT
+python "BACK SQUAT.py"
+```
 
 ## Profiles
 
