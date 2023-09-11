@@ -47,6 +47,4 @@ python "OVERHEAD TRICEP.py"
 
 * [LinkedIn](https://www.linkedin.com/in/chauhan-mahaveer-13674b157)
 
-* [Twitter](https://twitter.com/Chauhan_Meet98)
-
-* [Kaggle](https://www.kaggle.com/mahavirchauhan)
+* [Kaggle](https://www.kaggle.com/mahaveerchauhan)
